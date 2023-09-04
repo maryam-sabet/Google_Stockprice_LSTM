@@ -1,1 +1,1 @@
-# Google Stock price LSTM
+# Google Stock price Prediction using LSTM
