@@ -1,1 +1,1 @@
-# Google_Stockprice_LSTM
+# Google Stock price LSTM
